@@ -12,7 +12,7 @@
 #include "utils/Utils.hpp"
 
 // URL used to retrieve update data
-#define GITHUB_API_URL "https://api.github.com/repos/tallbl0nde/TriPlayer/releases/latest"
+#define GITHUB_API_URL "https://api.github.com/repos/DefenderOfHyrule/TriPlayer/releases/latest"
 
 // Helper returning if a string is a number
 static inline bool isNumber(const std::string & str) {

@@ -1,4 +1,5 @@
 #include "ui/element/ScrollableGrid.hpp"
+#include <algorithm>  // add this include for std::find
 
 // Variables to alter scroll animation
 #define CATCHUP 13.5

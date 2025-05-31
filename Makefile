@@ -4,8 +4,8 @@
 # TriPlayer version
 #---------------------------------------------------------------------------------
 export VER_MAJOR	:= 1
-export VER_MINOR	:= 1
-export VER_MICRO	:= 1
+export VER_MINOR	:= 2
+export VER_MICRO	:= 0
 #---------------------------------------------------------------------------------
 
 all:
