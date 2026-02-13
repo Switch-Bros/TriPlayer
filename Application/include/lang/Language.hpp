@@ -10,6 +10,7 @@ enum class Language {
     ChineseSimplified,
     Japanese,
     Korean,
+    German,
     Total           // Total number of languages
 };
 

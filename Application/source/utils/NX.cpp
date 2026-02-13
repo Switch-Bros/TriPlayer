@@ -58,10 +58,13 @@ namespace Utils::NX {
                 lang = Language::Korean;
                 break;
 
+            case SetLanguage_DE:
+                lang = Language::German;
+                break;
+
             // No translations for these yet
             case SetLanguage_FR:
             case SetLanguage_FRCA:
-            case SetLanguage_DE:
             case SetLanguage_IT:
             case SetLanguage_NL:
             case SetLanguage_PT:

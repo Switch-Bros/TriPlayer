@@ -47,6 +47,9 @@ namespace Utils::Lang {
             case Language::Korean:
                 return "한국어";
 
+            case Language::German:
+                return "Deutsch";
+
             default:
                 break;
         }
@@ -86,6 +89,10 @@ namespace Utils::Lang {
 
             case Language::Korean:
                 path = "romfs:/lang/ko.json";
+                break;
+
+            case Language::German:
+                path = "romfs:/lang/de.json";
                 break;
 
             case Language::Default:
